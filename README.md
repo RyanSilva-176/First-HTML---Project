@@ -1,3 +1,2 @@
 # First-HTML---Project
-My first project using only HTML.
-This project was created only for HTML tags to practice and learn how they work properly.
+This is my first project using HTML, and this project was create just for practice and learn how tags in HTML works properly.
